@@ -80,7 +80,7 @@ IPAddress ip(0, 0, 0, 0); // arduinoIP
 private static final String SERVER_URL = "http:// arduinoIP";
 ```
 ```xml
- <domain includeSubdomains="true"> arduinoIP </domain>
+<domain includeSubdomains="true"> arduinoIP </domain>
 ```
 
 3. Τρέξε την εφαρμογή σε Android κινητό ή emulator που έχει πρόσβαση στο ίδιο δίκτυο
