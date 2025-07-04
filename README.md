@@ -75,10 +75,14 @@ IPAddress ip(0, 0, 0, 0); // arduinoIP
 
 ### Android App
 1. Άνοιξε το Android Studio
-2. Ρύθμισε την IP στο αρχείο `MainActivity.java`:
+2. Ρύθμισε την IP στα αρχεία `MainActivity.java` και `network_security_config.xml`:
 ```java
 private static final String SERVER_URL = "http:// arduinoIP";
 ```
+```xml
+ <domain includeSubdomains="true"> arduinoIP </domain>
+```
+
 3. Τρέξε την εφαρμογή σε Android κινητό ή emulator που έχει πρόσβαση στο ίδιο δίκτυο
 
 ---
