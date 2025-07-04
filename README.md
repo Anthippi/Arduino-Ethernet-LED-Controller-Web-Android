@@ -103,7 +103,4 @@ private static final String SERVER_URL = "http:// arduinoIP";
 
 Μπορείς να ελέγξεις το LED:
 - Μέσω Android εφαρμογής
-- Μέσω browser, πηγαίνοντας στο:  
-  `http:// arduinoIP`
-  
----
+- Μέσω browser, πηγαίνοντας στο:  `http:// arduinoIP`
