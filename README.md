@@ -1,4 +1,4 @@
-# Arduino Ethernet LED Controller (Web & Android)
+# Arduino Ethernet LED Controller (Web & Android) [![Static Badge](https://img.shields.io/badge/English-orange)](README.en.md)
 
 Αυτό το project επιτρέπει τον **έλεγχο ενός LED** συνδεδεμένου σε **Arduino Mega 2560** με **Ethernet Shield (HanRun W5100)**, μέσω ενός **Web server** και **Android app** που στέλνουν HTTP αιτήματα.
 
