@@ -85,8 +85,10 @@ private static final String SERVER_URL = "http:// arduinoIP";
 
 ## Screenshots
 - Android app with 2 buttons (LED ON / OFF)
+  
    ![android_buttons](https://github.com/user-attachments/assets/f49389f1-cec6-4035-ac4d-fd784366d127)
 - Web interface served by the Arduino
+  
    ![web_buttons](https://github.com/user-attachments/assets/8db40c17-0329-4097-9d0c-c4c74ae52558)
 
 ## LED Control Options
