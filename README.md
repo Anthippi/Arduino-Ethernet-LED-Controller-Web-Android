@@ -25,6 +25,8 @@
 
 Το Ethernet Shield συνδέεται πάνω στο Arduino Mega κατευθείαν (stacked).
 
+![arduino](https://github.com/user-attachments/assets/9274ac04-92ee-442a-b7af-e879e54a0ac7)
+
 ---
 
 ## Android App (Java)
