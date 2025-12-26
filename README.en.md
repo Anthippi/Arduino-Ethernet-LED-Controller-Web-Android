@@ -25,7 +25,8 @@ This project allows you to **control an LED** connected to an **Arduino Mega 256
 
 The Ethernet Shield is stacked directly on top of the Arduino Mega.
 
-![arduino](https://github.com/user-attachments/assets/f8efc786-3639-414e-8b44-e9a40188b957)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/71a4a3c5-73b9-4e80-8830-3d7a65a2af2f" />
+
 
 ---
 
