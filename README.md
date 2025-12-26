@@ -25,7 +25,7 @@
 
 Το Ethernet Shield συνδέεται πάνω στο Arduino Mega κατευθείαν (stacked).
 
-![arduino](https://github.com/user-attachments/assets/9274ac04-92ee-442a-b7af-e879e54a0ac7)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b9522923-cba3-40bc-be18-897d8fa38ae0" />
 
 ---
 
